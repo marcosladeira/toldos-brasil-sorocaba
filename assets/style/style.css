@@ -1,0 +1,616 @@
+:root{
+    --brand-color: #FF0000;
+    --azul:#009cde;
+    --botao:#009cde;
+}
+.navbar{
+    box-shadow: rgba(0,0,0,0.25) 0 3px 11px 0 !important;
+}
+
+
+
+.fa-whatsapp{
+    color: #A5792E;
+    
+}
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    border: 2px solid #A5792E;
+    
+}
+
+.nav-link{
+  color: black;
+
+}
+
+
+
+
+.exemplo2{
+    color: black;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+html {
+    scroll-behavior: smooth;
+  }
+.inf{
+    background: #29794C;
+    color: white;
+}
+
+@media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .coluna1{
+    float: left;
+    width: 20%;
+  }
+
+  .coluna2{
+    float: left;
+    width: 20%;
+  }
+
+  .coluna3{
+    float: left;
+    width: 20%;
+  }
+
+  .coluna4{
+    float: left;
+    width: 20%;
+  }
+
+  .coluna5{
+    float: left;
+    width: 50%;
+  }
+
+  .coluna6{
+    float: left;
+    width: 50%;
+  }
+
+  .text-center1{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/black-thread-light.png");
+
+  }
+  
+
+  .gallery_product
+{
+    margin-bottom: 30px;
+}
+.gallery_product .title{
+  color:#fff;
+  margin: 0;
+  position:relative;
+  bottom:50px;
+  left:10px;
+}
+.gallery_product .title small{
+  display:block;
+}
+
+
+div#galeria-cover{
+  color: #FFFFFF;
+  height: 45vh;
+  width: 35vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+a.nostyle:link {
+  text-decoration: inherit;
+  color: inherit;
+}
+a.nostyle:visited {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.img{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-repeat: no-repeat;
+  }
+
+  .banner__img1{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO-ARTICULADO-ITALIANO+\(19\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img2{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/telha+termoacustica+\(1\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img3{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO+PERGOLADO+\(7\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img4{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/COBERTURA+POLICARBONATO+COMPACTO+\(7\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img5{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/CORTINA-GEORGIA.jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img6{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDOS+E+COBERTURAS+\(2\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img7{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO+ABRE+E+FECHA+\(8\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img8{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO+POLICARBONATO+\(2\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img9{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/full-0d1627f2e229a826420ad1572fbe0daa.jpg");
+    background-repeat: no-repeat;
+  }
+
+.banner__img10{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDOS+ARTICULADOS+\(9\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img11{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/toldo+cortina+manual+e+automatizada+\(7\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img12{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDOS+EM+LONA+\(5\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img13{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO-FIXO+\(5\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img14{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO+RETO+\(7\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img15{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/COBERTURA+POLICARBONATO+ALVEOLAR+\(13\).jpg");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img16{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    margin: 50px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/black-thread-light.png");
+    background-repeat: no-repeat;
+  }
+
+  .banner__img17{
+    position: relative;
+    
+  padding: 0px 0;
+    width: 550px;
+    height: 250px;
+    margin: 45px auto 0 auto;
+    border-radius: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../image/TOLDO-ARTICULADO-ITALIANO+\(16\).jpg");
+    background-repeat: no-repeat;
+  }
+  
+  .banner__img--cover{
+    background-size: cover;
+  }
+  
+  .banner__img--full{
+    background-size: 100% 100%;
+  }
+  
+  .banner__img--square{
+    height: 305px; 
+    background-size: 100% 100%;
+  }
+  
+  .banner__text{
+    position: center;
+    color: #FFFFFF;
+    bottom: 10px;
+    padding: 0 25px;
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #fff;
+  }
+ 
+.jumbotron{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/capa.jpg") ;
+    color: white;
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+      
+}
+
+.jumbotron2{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/photo-1589072459821-04dc3dbc57f9-640w.jpg") ;
+  color: white;
+  width: 100%;
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.jumbotron3{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/man-woman-working-office-1920w.jpg") ;
+  color: white;
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron4{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/photo-1423666639041-f56000c27a9a.jpg") ;
+  color: white;
+  width: 100%;
+  height: 70vh;
+  background-size: cover;
+
+}
+
+.jumbotron5{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/toldo+articulado+italiano.jpg") ;
+  color: white;
+  width: 100%;
+  height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.jumbotron6{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/CORTINA-GEORGIA.jpg") ;
+  color: white;
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron7{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/full-0d1627f2e229a826420ad1572fbe0daa.jpg") ;
+  color: white;
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.jumbotron8{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDO-FIXO+\(5\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron9{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/telha+termoacustica+\(1\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 55vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron10{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDOS+E+COBERTURAS+\(2\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron11{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDOS+ARTICULADOS+\(9\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron12{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDO+RETO+\(7\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 60vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron13{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDO+PERGOLADO+\(7\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron14{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDO+ABRE+E+FECHA+\(8\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron15{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/toldo+cortina+manual+e+automatizada+\(7\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron16{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/COBERTURA+POLICARBONATO+ALVEOLAR+\(13\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron17{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/COBERTURA+POLICARBONATO+COMPACTO+\(7\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron18{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDO+POLICARBONATO+\(2\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.jumbotron19{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../image/TOLDOS+EM+LONA+\(5\).jpg") ;
+  color: white;
+  width: 100%;
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+
+.jumbotron h3{
+    color:#dedede;
+    font-weight: 300;
+}
+.jumbotron__botoes button{
+width: 220px;
+}
+.card{
+    border: 0px;
+    box-shadow: rgba(0,0,0,0.25) 0 3px 11px 0 !important;
+}
+.btn-danger{
+    background: var(--brand-color);
+}
+hr{
+    border: 1px solid #808080;
+    width: 85px;
+}
+.card-title{
+    font-size: 22px;
+}
+.texto hr{
+    border-color:var(--azul) ;
+}
+
+.btn-info{
+    background: var(--botao);
+width: 280px!important;
+}
+.desfecho{
+    color: white;
+    background: #F6F6F6;
+    height: 75px;
+}
+.desfecho hr{
+    width: 188px;
+    border-color: white ;
+}
+.quadrado{
+    background:  #b50107;
+    color: white;
+}
+.quadrado p{
+    font-size: 40px;
+}
+.row{
+    font-size: 30px;
+}
+.row i{
+    font-size: 60px;
+    color:  #FFFFFF;
+}
+.whatsapp-fixo {
+    position: fixed;
+    bottom:35px;
+    right:35px;
+    z-index: 997;
+    text-align: right;
+}
+.whatsapp-fixo a {
+    text-decoration: none;
+}
+.whatsapp-description{
+    text-align: center;
+    /*height: 0;*/
+    display: none;
+    background: #00C445;
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    overflow: hidden;
+    transition: opacity 0.3s, height 0.3s ease;
+}
+.whatsapp-description p{
+    margin: none !important;
+    line-height: 1.8;
+}
+.whatsapp-fixo:hover > .whatsapp-description{
+    /*display: block;*/
+    height: auto;
+    /* opacity: 100%; */
+    display: block;
+    transition: opacity 0.3s, height 0.3s ease;
+}
+@media(max-width: 576px){
+    .inf{
+        display: none!important;
+    }
+}
